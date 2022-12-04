@@ -1,0 +1,62 @@
+[
+  {
+    "name": "<div class = 'node-text'><p  class='h6' class='h6'>Just a sample tree</p></div>",
+    "children": [
+      {
+        "name": "<div class = 'node-text'><p  class='h6'> This is <span class = 'popup-text popup' id='popupWedlock'>Route #1</span></p></div>",
+        "children": [
+          {
+            "name": "<div class = 'node-text'><p>This is Route #1's first born son </p><button class = 'popup-btn popup' id='popupBio'>Fabio.</button></div>",
+            "outcome": "pos"
+          },
+          {
+            "name": "<div class = 'node-text'><p class='h6'>This is Route #1's first born daugher, Georgina. </p> </div>",
+            "outcome": "neg",
+            "children": [
+              {
+                "name": "<div class = 'node-text'><p>This is Goergina's first born child </p><button class = 'popup-btn popup' id='popupConsular'>Pop Up #2</button></div>",
+                "outcome": "pos"
+              },
+              { "name": "<div class = 'node-text'><p>This is Georgina's second  child </p><button class = 'popup-btn popup' id='popupVoluntary'> Pop Up #3 </button></div>" },
+              {
+                "name": "<div class = 'node-text'><p>This is Georgia's third child </p><button class = 'popup-btn popup' id='popupAbandon'> Pop Up #4 </button></div>",
+                "outcome": "neg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "<div class = 'node-text'>This is <span class = 'popup-text popup' id='popupWedlock'>Route #2 </span></div>",
+        "children": [
+          {
+            "name": "<div class = 'node-text'><p  class='h6'> This is Route #2's first born child, Franki. </p></div>",
+            "children": [
+              {
+                "name": "<div class = 'node-text'><p> This is Franki's first daughter, </p><button class = 'popup-btn popup' id='popupBio'>Pop-up #6 </button></div>",
+                "outcome": "pos"
+              },
+              {
+                "name": "<div class = 'node-text'><p class='h6'>This is Franki's second daughter, </p><button class = 'popup-btn popup' id='popupFraud'> Pop-up #7 </button></div>",
+                "outcome": "neg"
+              }
+            ]
+          },
+          {
+            "name": "<div class = 'node-text'><p  class='h6'>This is Route #2's second born child, Markus with a K. </p><p> <a href='https://www.law.cornell.edu/uscode/text/8/1409' target='_'> 8 USC §1409c </a> | Conditions for Citizenship</p></div>",
+            "children": [
+              {
+                "name": "<div class = 'node-text'><p>This is Markus with a K's first child </p><button class = 'popup-btn popup' id='popupBio'>Pop Up #8</button></div",
+                "outcome": "pos"
+              },
+              {
+                "name": "<div class = 'node-text'><p class='h6'>This is Markus with a K's second child</p><button class = 'popup-btn popup' id='popupFraud'> Pop Up #9 </button></div>",
+                "outcome": "neg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Website</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Lato:wght@400;700;900&display=swap"
+    rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Italianno&display=swap" rel="stylesheet">
+  <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/v4-shims.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <div id="page-content">
+    <div id="topImgDiv">
+      <h1 id="titleHeader" class="animate__animated">DNA Collection from Migrants</h1>
+    </div>
+    <!-- *****Navbar***** -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark my-nav dark-nav" id="myNav">
+      <p class="navbar-brand">Homepage</p>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active px-2 espanol-link">
+            <a class="nav-link" href="./homeEspanol.html">En Español</a>
+          </li>
+          <li class="nav-item active px-2">
+            <a class="nav-link" href="#dropdowns">Features</a>
+          </li>
+          <li class="nav-item active px-2">
+            <a class="nav-link" href="#">FAQ</a>
+          </li>
+          <li class="nav-item active px-2">
+            <a class="nav-link" href="#dropdowns">Resources</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <!-- *****Top Section***** -->
+    <div class="container-fluid top-section">
+      <div class="container">
+        <div class=row>
+          <div class="about-text">
+            <h3 class="cursive">About the Project:</h3>
+            <h5>
+            	This tool is intended for migrants and their family members. It provides guidance on how and why immigration officials may collect DNA samples from migrants. If you are a migrant, or family member, and you have been asked by immigration officials to provide a DNA sample, you can learn more about your rights and protections by using the tools at the bottom of this page.  
+            <br><br>
+            
+              This tool is not intended to provide legal advice. Information on this site is for general informational purposes only. 
+            </h5>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- *****Dropdown Section***** -->
+    <div class="container-fluid mid-section" id="dropdowns">
+      <div class="container dropdowns-wrapper">
+        <div class="row dropdown-buttons" id>
+          
+
+          <!-- First Dropdown Button -->
+          <div class="col-sm-6 col-12 dDown-menu text-center">
+            <div class="btn-group justify-content-center">
+              <button type="button" class="btn btn-primary dropdown-toggle data-button" 
+                aria-haspopup="true" aria-expanded="false" data-id = 1>
+                <i class="fa fa-user fa-4x" aria-hidden="true"></i><br>Migrant
+              </button>
+            </div>
+          </div>
+
+          <!-- Second Dropdown Button -->
+          <div class="col-sm-6 col-12 dDown-menu text-center">
+            <div class="btn-group justify-content-center">
+              <button type="button" class="btn btn-primary data-button dropdown-toggle"  aria-haspopup="true"
+                aria-expanded="false" data-id = 2>
+                <i class="fa fa-users fa-4x" aria-hidden="true"></i><br>Family
+              </button>
+            </div>
+          </div>
+
+        </div>
+        <div id="textChoicesDiv" class = "">
+          <ul id="textChoices" class = "text-choices">
+         
+          </ul>
+        </div>
+      </div>
+    </div>  
+  </div>
+  <div class="push"></div>
+  <footer id="sticky-footer">Footer <a class="top-arrow" href="#page-content"><i class="fa fa-angle-double-up"></i></a>
+  </footer>
+
+  <!-- load the d3.js library -->
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+  <!-- <script src="./Popper.js"></script> -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+  <script src="./scripts/home.js"></script>
+</body>
+
+</html>

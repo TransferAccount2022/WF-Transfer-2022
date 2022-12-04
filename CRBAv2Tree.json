@@ -1,0 +1,114 @@
+[
+    {
+      "name": "<div class = 'node-text grey-box'><p> I am the parent of a child born outside of the United States who I believe is eligible for U.S. citizenship. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+      "children": [
+        {
+          "name": "<div class = 'node-text'><p>. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+          "children": [
+            {
+              "name": "<div class = 'node-text'><p> Both my parents were U.S. citizens when I was born.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+              "children": [
+                  {
+                    "name": "<div class = 'node-text'><p> Prior to my birth, at least one of my parents resided in the United States at some time. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                    "children": [
+                      {
+                        "name":"<div class = 'node-text green-box'><p> I have documentary proof of my birth, my parents' marriage and their citizenship.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>"
+                      },
+                      {
+                        "name": "<div class = 'node-text red-box'><p> I do not have documentary proof of my birth, my parents' marriage and/or their citizenship.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                        "children": [
+                          {
+                              "name": "<div class = 'node-text red-box'><p> To be filled </p></div>"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "<div class = 'node-text'><p> Prior to my birth, neither of my parents had ever resided in the United States. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>"
+                  }
+              ]
+            },
+            {
+              "name": "<div class = 'node-text'><p> Only one of my parents was a U.S. citizens when I was born. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div> ",
+              "children": [
+                  {
+                    "name": "<div class = 'node-text grey-box'><p> My other parent was a U.S. national at the time of my birth.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div> "
+                  },
+                  {
+                    "name": "<div class = 'node-text grey-box'><p> My other parent was a foreign national at the time of my birth. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div> ",
+                    "children": [
+                        {
+                          "name":"<div class = 'node-text'><p> My mother was a U.S. citizen and my father was a foreign national. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                          "children":[
+                              {
+                                "name":"<div class = 'node-text grey-box'><p> I was born before May 24th, 1934. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>"
+                              },
+                              {
+                                "name":"<div class = 'node-text grey-box'><p> I was born after May 24th, 1934. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>"
+                              }
+                          ]
+                        },
+                        {
+                          "name":"<div class = 'node-text'><p> My father was a U.S. citizen and my mother was a foreign national. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>"
+                        }
+                    ]
+                  }
+              ]
+            },
+            {
+              "name": "<div class = 'node-text'><p> Neither of my parents was a U.S. citizen when I was born.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+              "children": [
+                {
+                    "name": "<div class = 'node-text red-box'><p> You do not qualify for U.S. citizenship. </p></div>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "<div class = 'node-text'><p> At the time of my birth, my parents were not married. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+          "children": [
+            {
+                "name": "<div class = 'node-text grey-box'><p> I am claiming citizenship through my father, who was a U.S. citizen at the time of my birth. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                "children": [
+                    {
+                        "name": "<div class = 'node-text'><p> I was born before January 13th, 1931. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div> "
+                    },
+                    {
+                        "name": "<div class = 'node-text'><p> I was born between January 14th, 1931 and December 23rd, 1952. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div> "
+                    },
+                    {
+                        "name": "<div class = 'node-text'><p> I was born between December 24th, 1952 and November 14th, 1968. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div> "
+                    },
+                    {
+                        "name": "<div class = 'node-text'><p> I was born between November 15th, 1968 and November 14th, 1971. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div> "
+                    },
+                    {
+                        "name": "<div class = 'node-text'><p> I was born after November 15th, 1971. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div> "
+                    }
+                ]
+              },
+              {
+                "name": "<div class = 'node-text grey-box'><p> I am claiming citizenship through my mother, who was U.S. citizen at the time of my birth. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div> ",
+                "children": [
+                    {
+                        "name": "<div class = 'node-text'><p> I was born before December 24th, 1952. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div> "
+                    },
+                    {
+                        "name": "<div class = 'node-text'><p> I was born between December 24th, 1952 and June 12th, 2017. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div> "
+                    },
+                    {
+                        "name":"<div class = 'node-text'><p> I was born after June 12th, 2017. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div> "
+                    }
+                ]
+              }
+             ]
+            },
+            {
+              "name":"<div class = 'node-text'><p> I was conceived using assisted reproductive technologies or surrogacy. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>"
+            }
+          ]
+        }
+     ]     
+  

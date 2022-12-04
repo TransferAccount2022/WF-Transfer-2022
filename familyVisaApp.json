@@ -1,0 +1,70 @@
+[
+          { "name": "<div class = 'node-text grey-box'><p>Has your U.S. based family member has already initiated the <span class = 'popup-text popup' id='popupApplication'>application process</span> in the United States?</p></div>",
+            "children": [
+              { 
+                "name": "<div class = 'node-text green-box'><p>Yes, my <span class = 'popup-text popup' id='popupRelative'>U.S. based family member</span> has already begun the application process.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                "children": [
+                  {
+                    "name":"<div class = 'node-text grey-box'><p> If you are unable to otherwise provide <span class = 'popup-text popup' id='popupProof'>proof</span> of your familial relationship, you have the option to undergo DNA testing.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                    "children": [
+                      {
+                        "name": "<div class = 'node-text red-box'><p> You <b>are not</b> required to submit to DNA testing. Only under <span class = 'popup-text popup' id='popupCircumstances'>specific circumstances</span> should you submit to DNA testing. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                            "children": [
+                          {
+                            "name": "<div class = 'node-text green-box'><p> If you agree to DNA testing, the <span class = 'popup-text popup' id='popupEmbassy'>U.S. Embassy or Consulate </span> in your home country will be sent a test kit for you to provide a sample. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                            "children": [
+                              {
+                                "name": "<div class = 'node-text'><p>You must <span class = 'popup-text popup' id='popupFees'> schedule an appointment </span> at the Embassy or Consulate before having your DNA collected.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                                "children": [
+                                  {
+                                    "name": "<div class = 'node-text grey-box'><p>A <span class = 'popup-text popup' id='popupDNA'>DNA sample</span> will be <span class = 'popup-text popup' id='popupCollection'>collected</span> at the Embassy or Consulate by the local panel physician. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                                    "children": [
+                                      {
+                                        "name": "<div class = 'node-text grey-box'><p>The Embassy or Consulate will return the sample to a lab in the United States, where it will be analyzed to create a <span class = 'popup-text popup' id='popupProfile''>DNA profile</span>.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                                        "children": [
+                                          {
+                                            "name": "<div class = 'node-text'><p>Your DNA profile will be compared with that of your U.S. based family member to determine if a <span class = 'popup-text popup' id='popupMatch'>sufficient match</span> exists.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                                            "children": [
+                                              {
+                                                "name": "<div class = 'node-text green-box'><p> If there is a sufficient match, your relationship will be confirmed. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                                                "children": [
+                                                  {
+                                                    "name": "<div class = 'node-text'><p>Results will be sent back to the Embassy or Consulate and application process continues.<span class = 'popup-text popup' id='popupPos'> What next?</span></p></div>"
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "<div class = 'node-text red-box'><p> If there is not a sufficient match, your relationship will be considered unconfirmed.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                                                "children": [
+                                                  {
+                                                    "name": "<div class = 'node-text'><p>Results will be sent back to the Embassy or Consulate, but application will likely not be accepted. <span class = 'popup-text popup' id='popupNeg'> What next?</span></p></div>"
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]   
+                  }
+                ]
+              },
+             {
+                "name":"<div class = 'node-text red-box'><p>No, <span class = 'popup-text popup' id='popupRelative'>U.S. based family member</span> has not begun the application process.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                "children": [
+            {
+                  "name": "<div class = 'node-text grey-box'><p> Your U.S. based family member <b>must</b> initiate the application process. <span class = 'popup-text popup' id='popupApplication'> Learn more</span>.</p></div>"
+            }            
+          ]
+        }
+      ]
+    }
+]

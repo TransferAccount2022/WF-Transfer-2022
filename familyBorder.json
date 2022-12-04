@@ -1,0 +1,120 @@
+[
+  {
+    "name": "<div class = 'node-text grey-box'>If ICE suspects that your relationship with your child or parent is <span class = 'popup-text popup' id='popupFraud'>fraudulent,</span> you may be asked to provide DNA as proof of relationship.</div>",
+    "children": [
+      {
+        "name": "<div class = 'node-text'> <p>If so, you should be provided with a <span class = 'popup-text popup' id='popupPrivacy'>privacy statement</span>.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+        "children": [
+          {
+            "name": "<div class = 'node-text green-box'><p>You can agree to submit to DNA testing.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+            "children": [
+              {
+                "name": "<div class = 'node-text grey-box'><p> If you agree to DNA testing, you will be asked to provide a <span class = 'popup-text popup' id='popupDNACollection'> DNA sample</span>.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                "children": [
+                  {
+                    "name": "<div class = 'node-text grey-box'><p> With your DNA sample, ICE will run a <span class = 'popup-text popup' id='popupRapidTest'>Rapid DNA Test</span> to determine the existance of a familial relationship.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                    "children": [
+                      {
+                        "name": "<div class = 'node-text grey-box'><p>The Rapid DNA test will produce a <span class = 'popup-text popup' id='popupProfile'>DNA profile</span> from your sample and a sample from your family member.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                        "children": [
+                          {
+                            "name": "<div class = 'node-text'><p>DNA profiles will then be compared to determine whether a match exists.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                            "children": [
+                              {
+                                "name": "<div class = 'node-text yellow-box'><p> The test results may be <span class = 'popup-text popup' id='popupInconclusive'>inconclusive.</span></p></div>"
+                              },
+                              {
+                                "name": "<div class = 'node-text green-box'><p> If there is a greater than 99.5% match, your relationship will be confirmed. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                                "children": [
+                                  {
+                                    "name": "<div class = 'node-text grey-box'><p>Your test results will be entered into your <span class = 'popup-text popup' id='popupSharepoint'>Sharepoint file</span>.</p></div>"
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "<div class = 'node-text red-box'><p> If there is a less than 99.5% match, your relationship will not be confirmed. You may be able to <span class = 'popup-text popup' id= 'popupContesting'>contest</span> the results.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                                "children": [
+                                  {
+                                    "name": "<div class = 'node-text grey-box'><p>Your test results will be entered into your <span class = 'popup-text popup' id='popupSharepoint'>Sharepoint file</span>.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                                    "children": [
+                                      {
+                                        "name": "<div class = 'node-text grey-box'>If ICE pursues an investigation into your relationship, test results may be entered into ICE's<span class = 'popup-text popup' id= 'popupInvestigation'> Investigative Case Management System</span>.</p></div>"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "<div class = 'node-text red-box'><p>You can decline to consent to DNA testing. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+            "children": [
+              {
+                "name": "<div class = 'node-text grey-box'><p>If you decline, there will be no DNA testing, but may have <span class = 'popup-text popup' id='popupRefusing'> negative effects</span>.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                "children": [
+                  {
+                    "name": "<div class = 'node-text'><p>If you are suspected of engaging in illegal activity, such as human trafficking, ICE may obtain a warrant requiring that you submit to DNA testing.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                    "children": [
+                      {
+                        "name": "<div class = 'node-text red-box'><p> If you are required to submit to DNA testing, you will be asked to provide a <span class = 'popup-text popup' id='popupDNACollection'> DNA sample</span>.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                        "children": [
+                          {
+                            "name": "<div class = 'node-text grey-box'><p> With your DNA sample, ICE will run a <span class = 'popup-text popup' id='popupRapidTest'>Rapid DNA Test</span> to determine the existance of a familial relationship.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                            "children": [
+                              {
+                                "name": "<div class = 'node-text grey-box'><p>The Rapid DNA test will produce a <span class = 'popup-text popup' id='popupProfile'>DNA profile</span> from your sample and a sample from your family member.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                                "children": [
+                                  {
+                                    "name": "<div class = 'node-text'><p>DNA profiles will then be compared to determine whether a match exists.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                                    "children": [
+                                      {
+                                        "name": "<div class = 'node-text yellow-box'><p> The test results may be <span class = 'popup-text popup' id='popupInconclusive'>inconclusive.</span></p></div>"
+                                      },
+                                      {
+                                        "name": "<div class = 'node-text green-box'><p> If there is a greater than 99.5% match, your relationship will be confirmed. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                                        "children": [
+                                          {
+                                            "name": "<div class = 'node-text grey-box'><p>Your test results will be entered into your <span class = 'popup-text popup' id='popupSharepoint'>Sharepoint file</span>, as well as ICE's ICE's<span class = 'popup-text popup' id= 'popupInvestigation'> Investigative Case Management System</span>.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "<div class = 'node-text red-box'><p> If there is a less than 99.5% match, your relationship will not be confirmed. You may be able to <span class = 'popup-text popup' id= 'popupContesting'>contest</span> the results.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                                        "children": [
+                                          {
+                                            "name": "<div class = 'node-text grey-box'><p>Your test results will be entered into your <span class = 'popup-text popup' id='popupSharepoint'>Sharepoint file</span>, as well as ICE's ICE's<span class = 'popup-text popup' id= 'popupInvestigation'> Investigative Case Management System</span>.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                                            "children": [
+                                              {
+                                                "name": "<div class = 'node-text grey-box'>If ICE pursues an investigation into your relationship, test results may be entered into ICE's<span class = 'popup-text popup' id= 'popupInvestigation'> Investigative Case Management System</span>.</p></div>"
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

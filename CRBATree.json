@@ -1,0 +1,824 @@
+[
+    {
+      "name": "<div class = 'node-text grey-box'><p> I am a foreign-born child of a U.S. citizen claiming <span class = 'popup-text popup' id='popupClaiming'>citizenship through parentage</span>. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+      "children": [
+        {
+          "name": "<div class = 'node-text'><p> At the time of my birth, my parents were <span class = 'popup-text popup' id='popupMarriage'>married</span>. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+          "children": [
+            {
+              "name": "<div class = 'node-text'><p> Both my parents were U.S. citizens when I was born.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+              "children": [
+                  {
+                    "name": "<div class = 'node-text'><p> Can you provide <span class = 'popup-text popup' id='popupProof'>sufficient proof</span> of your birth, your parents' marriage and their citizenship?</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                    "children": [
+                      {
+                        "name":"<div class = 'node-text green-box'><p> I have sufficient documentary proof of my birth, my parents' marriage and their citizenship.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                        "children": [
+                          {
+                              "name": "<div class = 'node-text yellow-box'><p> Only if you are suspected of <span class = 'popup-text popup' id='popupFraud'>fraud</span> will your DNA be requested. It is still <b>optional</b>. </p></div>"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "<div class = 'node-text red-box'><p> I do not have documentary proof of my birth, my parents' marriage and/or their citizenship.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                        "children": [
+                          {
+                              "name": "<div class = 'node-text yellow-box'><p> You may have no other choice but to submit to DNA testing or withdraw your claim. <span class = 'popup-text popup' id='popupWhy'> Why?</span> </p></div>"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+              ]
+            },
+            {
+              "name": "<div class = 'node-text'><p> Only one of my parents was a U.S. citizens when I was born. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div> ",
+              "children": [
+                {
+                  "name": "<div class = 'node-text'><p> Can you provide <span class = 'popup-text popup' id='popupProof'>sufficient proof</span> of your birth, your parents' marriage and their citizenship?</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                  "children": [
+                    {
+                      "name":"<div class = 'node-text green-box'><p> I have sufficient documentary proof of my birth, my parents' marriage and their citizenship.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                      "children": [
+                        {
+                          "name": "<div class = 'node-text yellow-box'><p> Only if you are suspected of <span class = 'popup-text popup' id='popupFraud'>fraud</span> will your DNA be requested. It is still <b>optional</b>. </p></div>"
+                       }
+                      ]
+                    },
+                    {
+                      "name": "<div class = 'node-text red-box'><p> I do not have documentary proof of my birth, my parents' marriage and/or their citizenship.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                      "children": [
+                        {
+                            "name": "<div class = 'node-text yellow-box'><p> You may have no other choice but to submit to DNA testing or withdraw your claim. <span class = 'popup-text popup' id='popupWhy'> Why?</span> </p></div>"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "<div class = 'node-text'><p> Neither of my parents was a U.S. citizen when I was born.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+              "children": [
+                {
+                    "name": "<div class = 'node-text red-box'><p> You do not qualify for U.S. citizenship through parentage.</p></div>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "<div class = 'node-text'><p> At the time of my birth, my parents were not <span class = 'popup-text popup' id='popupMarriage'>married</span>. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+          "children": [
+            {
+                "name": "<div class = 'node-text grey-box'><p> I am claiming citizenship through my father, who was a U.S. citizen at the time of my birth. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                "children": [
+                      {
+                        "name": "<div class = 'node-text'><p> I was born before November 14th, 1968. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                        "children": [
+                          {
+                            "name": "<div class = 'node-text'><p> Can you provide <span class = 'popup-text popup' id='popupProof'>sufficient proof</span> of your birth and your relationship to your father?</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                            "children": [
+                              {
+                                "name":"<div class = 'node-text green-box'><p> I have sufficient documentary proof of my birth and my relationship to my father.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                "children": [
+                                  {
+                                      "name": "<div class = 'node-text yellow-box'><p> Only if you are suspected of <span class = 'popup-text popup' id='popupFraud'>fraud</span> will your DNA be requested. It is still <b>optional</b>. </p></div>"
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "<div class = 'node-text red-box'><p> I do not have sufficient documentary proof of of my birth and your relationship to my father.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                                "children": [
+                                  {
+                                      "name": "<div class = 'node-text yellow-box'><p> You may have no other choice but to submit to DNA testing or withdraw your claim. <span class = 'popup-text popup' id='popupWhy'> Why?</span> </p></div>"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "<div class = 'node-text'><p> I was on or after November 14th, 1968. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                        "children": [
+                          {
+                            "name": "<div class = 'node-text'><p> You are required to have 'clear and convincing' evidence of a 'blood relationship' to your father. This is a higher standard than usual.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                            "children": [
+                              {
+                                "name":"<div class = 'node-text green-box'><p>Depending on your circumstances, it may be best to undergo DNA testing. [Dylan needs to rewrite this, you can skip it for now.]</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                "children": [
+                                  {
+                                      "name": "<div class = 'node-text yellow-box'><p> Extra section to be added. <b>optional</b>. </p></div>"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                         ]
+                        } 
+                      ]
+                    },
+                    {
+                "name": "<div class = 'node-text grey-box'><p> I am claiming citizenship through my mother, who was U.S. citizen at the time of my birth. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div> ",
+                "children": [
+                    {
+                        "name": "<div class = 'node-text yellow-box'><p> Only if you are <span class = 'popup-text popup' id='popupFraud'>suspected of fraud</span> should you be asked to  submit to DNA testing. </p></div> "
+                  }
+              ]
+            }
+          ]
+        },
+        {
+            "name":"<div class = 'node-text'><p> I was conceived using assisted reproductive technologies or surrogacy. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+            "children": [
+              {
+                "name":"<div class = 'node-text grey-box'><p> My birth mother is my <span class = 'popup-text popup' id='popupLegalParent'>legal mother</span>.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                "children": [ 
+                  {
+                    "name":"<div class = 'node-text'><p> My birth mother is also my <span class = 'popup-text popup' id='popupGeneticMother'>genetic mother</span>. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                    "children": [
+                      {
+                        "name":"<div class = 'node-text'><p> Is your birth mother a U.S. citizen?</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                        "children": [
+                          {
+                            "name": "<div class = 'node-text green-box'><p> Yes. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                            "children": [
+                              {
+                                "name":"<div class = 'node-text'><p> Was your birth mother married at the time of your birth? </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                "children": [
+                                  {
+                                    "name":"<div class = 'node-text green-box'><p> Yes, to another U.S. citizen. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                    "children": [
+                                      {
+                                        "name":"<div class = 'node-text yellow-box'><p> You are considered to be a child of two U.S. citizen parents. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                        "children": [
+                                          {
+                                            "name": "<div class = 'node-text'><p> Can you provide <span class = 'popup-text popup' id='popupProof'>sufficient proof</span> of your birth, your parents' marriage and their citizenship?</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                            "children": [
+                                              {
+                                                "name":"<div class = 'node-text green-box'><p> I have sufficient documentary proof of my birth, my parents' marriage and their citizenship.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                                "children": [
+                                                  {
+                                                      "name": "<div class = 'node-text yellow-box'><p> Only if you are suspected of <span class = 'popup-text popup' id='popupFraud'>fraud</span> will your DNA be requested. It is still <b>optional</b>. </p></div>"
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "<div class = 'node-text red-box'><p> I do not have sufficient documentary proof of my birth, my parents' marriage and/or their citizenship.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                                                "children": [
+                                                  {
+                                                      "name": "<div class = 'node-text yellow-box'><p> You may have no other choice but to submit to DNA testing or withdraw your claim. <span class = 'popup-text popup' id='popupWhy'> Why?</span> </p></div>"
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      } 
+                                    ]  
+                                  },
+                                  { 
+                                    "name":"<div class = 'node-text yellow-box'><p> Yes, to a non-U.S. citizen </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                                    "children": [
+                                      {
+                                        "name":"<div class = 'node-text yellow-box'><p> You are considered to be a child born in wedlock to a U.S. citizen mother. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                        "children": [
+                                          {
+                                            "name": "<div class = 'node-text'><p> Can you provide <span class = 'popup-text popup' id='popupProof'>sufficient proof</span> of your birth, your parents' marriage and their citizenship?</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                            "children": [
+                                              {
+                                                "name":"<div class = 'node-text green-box'><p> I have sufficient documentary proof of my birth, my parents' marriage and their citizenship.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                                "children": [
+                                                  {
+                                                    "name": "<div class = 'node-text yellow-box'><p> Only if you are suspected of <span class = 'popup-text popup' id='popupFraud'>fraud</span> will your DNA be requested. It is still <b>optional</b>. </p></div>"
+                                                 }
+                                                ]
+                                              },
+                                              {
+                                                "name": "<div class = 'node-text red-box'><p> I do not have documentary proof of my birth, my parents' marriage and/or their citizenship.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                                                "children": [
+                                                  {
+                                                      "name": "<div class = 'node-text yellow-box'><p> You may have no other choice but to submit to DNA testing or withdraw your claim. <span class = 'popup-text popup' id='popupWhy'> Why?</span> </p></div>"
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      } 
+                                    ]  
+                                  },
+                                  { 
+                                    "name":"<div class = 'node-text red-box'><p> No. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                                    "children": [
+                                      { 
+                                        "name":"<div class = 'node-text red-box'><p>You are considered to be a child born out of wedlock to a U.S. citizen mother.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                                        "children": [
+                                          {
+                                              "name": "<div class = 'node-text yellow-box'><p> Only if you are <span class = 'popup-text popup' id='popupFraud'>suspected of fraud</span> should you be asked to  submit to DNA testing. </p></div> "
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "<div class = 'node-text red-box'><p> No. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                            "children": [
+                              {
+                                "name":"<div class = 'node-text grey-box'><p> Was your birth mother married at the time of your birth? </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                "children": [
+                                  {
+                                    "name":"<div class = 'node-text'><p> Yes, to a U.S. citizen. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                    "children": [
+                                      {
+                                        "name":"<div class = 'node-text red-box'><p> You are considered to be a child born in wedlock to a U.S. citizen parent. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                        "children": [
+                                          {
+                                            "name":"<div class = 'node-text yellow-box'><p> You are considered to be a child born in wedlock to a U.S. citizen mother. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                            "children": [
+                                              {
+                                                "name": "<div class = 'node-text'><p> Can you provide <span class = 'popup-text popup' id='popupProof'>sufficient proof</span> of your birth, your parents' marriage and their citizenship?</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                                "children": [
+                                                  {
+                                                    "name":"<div class = 'node-text green-box'><p> I have sufficient documentary proof of my birth, my parents' marriage and their citizenship.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                                    "children": [
+                                                      {
+                                                        "name": "<div class = 'node-text yellow-box'><p> Only if you are suspected of <span class = 'popup-text popup' id='popupFraud'>fraud</span> will your DNA be requested. It is still <b>optional</b>. </p></div>"
+                                                     }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "<div class = 'node-text red-box'><p> I do not have documentary proof of my birth, my parents' marriage and/or their citizenship.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                                                    "children": [
+                                                      {
+                                                          "name": "<div class = 'node-text yellow-box'><p> You may have no other choice but to submit to DNA testing or withdraw your claim. <span class = 'popup-text popup' id='popupWhy'> Why?</span> </p></div>"
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          } 
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  { 
+                                    "name":"<div class = 'node-text'><p> Yes, to non-U.S. citizen. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                                    "children": [
+                                      { 
+                                        "name":"<div class = 'node-text red-box'><p>You are not eligible for citizenship through parentage.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>"
+                                      }
+                                    ]
+                                  },
+                                  { 
+                                    "name":"<div class = 'node-text red-box'><p> No. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                                    "children": [
+                                      { 
+                                        "name":"<div class = 'node-text red-box'><p>You are not eligible for citizenship through parentage.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "<div class = 'node-text'><p> My birth mother is <b>not</b> my <span class = 'popup-text popup' id='popupGeneticMother'>genetic mother</span> </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                    "children": [
+                      {
+                        "name":"<div class = 'node-text grey-box'><p> Is your birth mother a U.S. citizen? </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                        "children": [
+                          {
+                            "name":"<div class = 'node-text green-box'><p> Yes. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                            "children": [
+                              {
+                                "name":"<div class = 'node-text grey-box'><p> Was your mother married to one of your genetic parents at the time of birth? </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                "children": [
+                                  {
+                                    "name":"<div class = 'node-text green-box'><p> Yes. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                    "children": [
+                                      {
+                                      "name": "<div class = 'node-text'><p> Is that genetic parent a U.S. citizen? </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                      "children": [
+                                        {
+                                          "name": "<div class = 'node-text green-box'><p> Yes. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                          "children": [
+                                            {
+                                              "name": "<div class = 'node-text yellow-box'><p> You are considered to be a child born to two U.S. citizens in wedlock. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                              "children": [
+                                                {
+                                                  "name":"<div class = 'node-text yellow-box'><p> You are considered to be a child of two U.S. citizen parents. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                                  "children": [
+                                                    {
+                                                      "name": "<div class = 'node-text'><p> Can you provide <span class = 'popup-text popup' id='popupProof'>sufficient proof</span> of your birth, your parents' marriage and their citizenship?</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                                      "children": [
+                                                        {
+                                                          "name":"<div class = 'node-text green-box'><p> I have sufficient documentary proof of my birth, my parents' marriage and their citizenship.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                                          "children": [
+                                                            {
+                                                                "name": "<div class = 'node-text yellow-box'><p> Only if you are suspected of <span class = 'popup-text popup' id='popupFraud'>fraud</span> will your DNA be requested. It is still <b>optional</b>. </p></div>"
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "name": "<div class = 'node-text red-box'><p> I do not have sufficient documentary proof of my birth, my parents' marriage and/or their citizenship.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                                                          "children": [
+                                                            {
+                                                                "name": "<div class = 'node-text yellow-box'><p> You may have no other choice but to submit to DNA testing or withdraw your claim. <span class = 'popup-text popup' id='popupWhy'> Why?</span> </p></div>"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                } 
+                                              ] 
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "<div class = 'node-text' red-box><p> No. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                          "children": [
+                                            {
+                                              "name": "<div class = 'node-text red-box'><p> You are considered to be a child born in wedlock to a U.S. citizen mother. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                              "children": [
+                                                {
+                                                  "name": "<div class = 'node-text'><p> Can you provide <span class = 'popup-text popup' id='popupProof'>sufficient proof</span> of your birth, your parents' marriage and their citizenship?</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                                  "children": [
+                                                    {
+                                                      "name":"<div class = 'node-text green-box'><p> I have sufficient documentary proof of my birth, my parents' marriage and their citizenship.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                                      "children": [
+                                                        {
+                                                          "name": "<div class = 'node-text yellow-box'><p> Only if you are suspected of <span class = 'popup-text popup' id='popupFraud'>fraud</span> will your DNA be requested. It is still <b>optional</b>. </p></div>"
+                                                       }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "<div class = 'node-text red-box'><p> I do not have documentary proof of my birth, my parents' marriage and/or their citizenship.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                                                      "children": [
+                                                        {
+                                                            "name": "<div class = 'node-text yellow-box'><p> You may have no other choice but to submit to DNA testing or withdraw your claim. <span class = 'popup-text popup' id='popupWhy'> Why?</span> </p></div>"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                      }
+                                    ]
+                                  },
+                                  { 
+                                    "name":"<div class = 'node-text red-box'><p> No. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                                    "children": [
+                                      { 
+                                        "name":"<div class = 'node-text red-box'><p> You are considered a child born to a U.S. citizen mother out of wedlock. </p></div>",
+                                        "children": [
+                                          {
+                                              "name": "<div class = 'node-text yellow-box'><p> Only if you are <span class = 'popup-text popup' id='popupFraud'>suspected of fraud</span> should you be asked to  submit to DNA testing. </p></div> "
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name":"<div class = 'node-text red-box'><p> No. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                            "children": [
+                              {
+                                "name":"<div class = 'node-text grey-box'><p> Was your mother married to one of your <span class = 'popup-text popup' id='popupGeneticParents'>genetic parents</span> at the time of birth? </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                "children": [
+                                  {
+                                    "name":"<div class = 'node-text'><p> Yes. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                    "children": [
+                                      {
+                                      "name": "<div class = 'node-text'><p> Is that genetic parent a U.S. citizen? </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                      "children": [
+                                        {
+                                          "name": "<div class = 'node-text'><p> Yes. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                          "children": [
+                                            {
+                                              "name": "<div class = 'node-text red-box'><p> You are considered a child born in wedlock to a U.S. citizen parent. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                              "children": [
+                                                {
+                                                  "name": "<div class = 'node-text'><p> Can you provide <span class = 'popup-text popup' id='popupProof'>sufficient proof</span> of your birth, your parents' marriage and their citizenship?</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                                  "children": [
+                                                    {
+                                                      "name":"<div class = 'node-text green-box'><p> I have sufficient documentary proof of my birth, my parents' marriage and their citizenship.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                                      "children": [
+                                                        {
+                                                          "name": "<div class = 'node-text yellow-box'><p> Only if you are suspected of <span class = 'popup-text popup' id='popupFraud'>fraud</span> will your DNA be requested. It is still <b>optional</b>. </p></div>"
+                                                       }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "<div class = 'node-text red-box'><p> I do not have documentary proof of my birth, my parents' marriage and/or their citizenship.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                                                      "children": [
+                                                        {
+                                                            "name": "<div class = 'node-text yellow-box'><p> You may have no other choice but to submit to DNA testing or withdraw your claim. <span class = 'popup-text popup' id='popupWhy'> Why?</span> </p></div>"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "<div class = 'node-text' red-box><p> No. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                          "children": [
+                                            {
+                                              "name": "<div class = 'node-text red-box'><p> You are not eligible for citizenship through parentage. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                      }
+                                    ]
+                                  },
+                                  { 
+                                    "name":"<div class = 'node-text'><p> No. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                                    "children": [
+                                      { 
+                                        "name":"<div class = 'node-text red-box'><p> Are either of your <span class = 'popup-text popup' id='popupGeneticParents'>genetic parents</span> a U.S. citizen? </p></div>",
+                                        "children": [
+                                          { 
+                                            "name":"<div class = 'node-text'><p> Yes. </p> </div>",
+                                            "children": [
+                                              {
+                                                "name":"<div class = 'node-text'><p> You are considered a child born out of wedlock to a U.S. citizen parent. </p> </div>",
+                                                "children": [
+                                                  {
+                                                      "name": "<div class = 'node-text grey-box'><p> I am claiming citizenship through my <span class = 'popup-text popup' id='popupGeneticFather'>genetic father</span>, who was a U.S. citizen at the time of my birth. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                                      "children": [
+                                                            {
+                                                              "name": "<div class = 'node-text'><p> I was born before November 14th, 1968. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                                                              "children": [
+                                                                {
+                                                                  "name": "<div class = 'node-text'><p> Can you provide <span class = 'popup-text popup' id='popupProof'>sufficient proof</span> of your birth and your relationship to your father?</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                                                  "children": [
+                                                                    {
+                                                                      "name":"<div class = 'node-text green-box'><p> I have sufficient documentary proof of my birth and my relationship to my father.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                                                      "children": [
+                                                                        {
+                                                                            "name": "<div class = 'node-text yellow-box'><p> Only if you are suspected of <span class = 'popup-text popup' id='popupFraud'>fraud</span> will your DNA be requested. It is still <b>optional</b>. </p></div>"
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "name": "<div class = 'node-text red-box'><p> I do not have sufficient documentary proof of of my birth and your relationship to my father.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                                                                      "children": [
+                                                                        {
+                                                                            "name": "<div class = 'node-text yellow-box'><p> You may have no other choice but to submit to DNA testing or withdraw your claim. <span class = 'popup-text popup' id='popupWhy'> Why?</span> </p></div>"
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "<div class = 'node-text'><p> I was on or after November 14th, 1968. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                                                              "children": [
+                                                                {
+                                                                  "name": "<div class = 'node-text'><p> You are required to have 'clear and convincing' evidence of a 'blood relationship' to your father. This is a higher standard than usual.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                                                  "children": [
+                                                                    {
+                                                                      "name":"<div class = 'node-text green-box'><p>Depending on your circumstances, it may be best to undergo DNA testing. [Dylan needs to rewrite this, you can skip it for now.]</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                                                      "children": [
+                                                                        {
+                                                                            "name": "<div class = 'node-text yellow-box'><p> Extra section to be added. <b>optional</b>. </p></div>"
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                               ]
+                                                              } 
+                                                            ]
+                                                          },
+                                                          {
+                                                      "name": "<div class = 'node-text grey-box'><p> I am claiming citizenship through my <span class = 'popup-text popup' id='popupGeneticMother'>genetic mother</span>, who was U.S. citizen at the time of my birth. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div> ",
+                                                      "children": [
+                                                          {
+                                                              "name": "<div class = 'node-text yellow-box'><p> Only if you are <span class = 'popup-text popup' id='popupFraud'>suspected of fraud</span> should you be asked to  submit to DNA testing. </p></div> "
+                                                        }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          { 
+                                            "name":"<div class = 'node-text'><p> No. </p> </div>",
+                                            "children": [
+                                              {
+                                                "name":"<div class = 'node-text'><p> You are not eligible for U.S. citizenship through parentage. </p> </div>"
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ] 
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name":"<div class = 'node-text grey-box'><p> My birth mother was a <span class = 'popup-text popup' id='popupSurrogate'>surrogate</span>.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                "children": [
+                    {
+                      "name":"<div class = 'node-text'><p> Both my <span class = 'popup-text popup' id='popupGeneticParents'>genetic parents</span> are U.S. citizens.  </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                      "children": [
+                        {
+                          "name":"<div class = 'node-text'><p> Are your genetic parents married? </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                          "children": [
+                            {
+                              "name": "<div class = 'node-text green-box'><p> Yes. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                              "children": [
+                                {
+                                  "name": "<div class = 'node-text yellow-box'><p> You are considered to be a child born to two U.S. citizens in wedlock. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                  "children": [
+                                    {
+                                      "name": "<div class = 'node-text'><p> Can you provide <span class = 'popup-text popup' id='popupProof'>sufficient proof</span> of your birth, your parents' marriage and their citizenship?</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                      "children": [
+                                        {
+                                          "name":"<div class = 'node-text green-box'><p> I have sufficient documentary proof of my birth, my parents' marriage and their citizenship.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                          "children": [
+                                            {
+                                                "name": "<div class = 'node-text yellow-box'><p> Only if you are suspected of <span class = 'popup-text popup' id='popupFraud'>fraud</span> will your DNA be requested. It is still <b>optional</b>. </p></div>"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "<div class = 'node-text red-box'><p> I do not have documentary proof of my birth, my parents' marriage and/or their citizenship.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                                          "children": [
+                                            {
+                                                "name": "<div class = 'node-text yellow-box'><p> You may have no other choice but to submit to DNA testing or withdraw your claim. <span class = 'popup-text popup' id='popupWhy'> Why?</span> </p></div>"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "<div class = 'node-text' red-box><p> No. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                              "children": [
+                                {
+                                  "name": "<div class = 'node-text yellow-box'><p> You are considered to be a child born out of wedlock to a U.S. citizen mother. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                  "children": [
+                                    {
+                                        "name": "<div class = 'node-text yellow-box'><p> Only if you are <span class = 'popup-text popup' id='popupFraud'>suspected of fraud</span> should you be asked to  submit to DNA testing. </p></div> "
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        } 
+                      ]  
+                    },
+                    { 
+                      "name":"<div class = 'node-text'><p> Only one of my <span class = 'popup-text popup' id='popupGeneticParents'>genetic parents</span> is a U.S. citizen. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                      "children": [
+                        {
+                          "name":"<div class = 'node-text'><p> My <span class = 'popup-text popup' id='popupGeneticMother'>genetic mother</span> is a U.S. citizen. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                          "children": [
+                            {
+                              "name":"<div class = 'node-text'><p> Who is your <span class = 'popup-text popup' id='popupGeneticFather'>genetic father</span>? </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                              "children": [
+                                {
+                                  "name":"<div class = 'node-text grey-box'><p> An anonymous sperm donor. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                  "children": [
+                                    {
+                                      "name":"<div class = 'node-text yellow-box'><p> You are considered a child born out of wedlock to a U.S. citizen mother.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                      "children": [
+                                        {
+                                            "name": "<div class = 'node-text yellow-box'><p> Only if you are <span class = 'popup-text popup' id='popupFraud'>suspected of fraud</span> should you be asked to  submit to DNA testing. </p></div> "
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name":"<div class = 'node-text grey-box'><p> My mother's husband who is not a U.S. citizen.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                  "children": [
+                                    {
+                                      "name":"<div class = 'node-text yellow-box'><p> You are considered a child born in wedlock to a U.S. citizen mother and non-citizen father. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                      "children": [
+                                        {
+                                          "name": "<div class = 'node-text'><p> Can you provide <span class = 'popup-text popup' id='popupProof'>sufficient proof</span> of your birth, your parents' marriage and their citizenship?</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                          "children": [
+                                            {
+                                              "name":"<div class = 'node-text green-box'><p> I have sufficient documentary proof of my birth, my parents' marriage and their citizenship.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                              "children": [
+                                                {
+                                                  "name": "<div class = 'node-text yellow-box'><p> Only if you are suspected of <span class = 'popup-text popup' id='popupFraud'>fraud</span> will your DNA be requested. It is still <b>optional</b>. </p></div>"
+                                               }
+                                              ]
+                                            },
+                                            {
+                                              "name": "<div class = 'node-text red-box'><p> I do not have documentary proof of my birth, my parents' marriage and/or their citizenship.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                                              "children": [
+                                                {
+                                                    "name": "<div class = 'node-text yellow-box'><p> You may have no other choice but to submit to DNA testing or withdraw your claim. <span class = 'popup-text popup' id='popupWhy'> Why?</span> </p></div>"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            } 
+                          ]                         
+                        },
+                        {
+                          "name":"<div class = 'node-text'><p> My <span class = 'popup-text popup' id='popupGeneticParents'>genetic parents</span> is a U.S. citizen. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                          "children": [
+                            {
+                              "name":"<div class = 'node-text'><p> Who is your <span class = 'popup-text popup' id='popupGeneticMother'>genetic mother</span>? </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                              "children": [
+                                {
+                                  "name":"<div class = 'node-text grey-box'><p> An anonymous egg donor. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                  "children": [
+                                    {
+                                      "name":"<div class = 'node-text yellow-box'><p> You are considered to be a child born out of wedlock to a U.S. citizen father.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                      "children": [
+                                        {
+                                          "name": "<div class = 'node-text'><p> I was born before November 14th, 1968. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                                          "children": [
+                                            {
+                                              "name": "<div class = 'node-text'><p> Can you provide <span class = 'popup-text popup' id='popupProof'>sufficient proof</span> of your birth and your relationship to your father?</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                              "children": [
+                                                {
+                                                  "name":"<div class = 'node-text green-box'><p> I have sufficient documentary proof of my birth and my relationship to my father.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                                  "children": [
+                                                    {
+                                                        "name": "<div class = 'node-text yellow-box'><p> Only if you are suspected of <span class = 'popup-text popup' id='popupFraud'>fraud</span> will your DNA be requested. It is still <b>optional</b>. </p></div>"
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "<div class = 'node-text red-box'><p> I do not have sufficient documentary proof of of my birth and your relationship to my father.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                                                  "children": [
+                                                    {
+                                                        "name": "<div class = 'node-text yellow-box'><p> You may have no other choice but to submit to DNA testing or withdraw your claim. <span class = 'popup-text popup' id='popupWhy'> Why?</span> </p></div>"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "<div class = 'node-text'><p> I was on or after November 14th, 1968. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                                          "children": [
+                                            {
+                                              "name": "<div class = 'node-text'><p> You are required to have <span class = 'popup-text popup' id='popupGeneticClearConvincing'>clear and convincing</span> evidence of a 'blood relationship' to your father. This is a higher standard than usual.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                              "children": [
+                                                {
+                                                  "name":"<div class = 'node-text green-box'><p>Depending on your circumstances, it may be best to undergo DNA testing. [Dylan needs to rewrite this, you can skip it for now.]</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                                  "children": [
+                                                    {
+                                                        "name": "<div class = 'node-text yellow-box'><p> Extra section to be added. <b>optional</b>. </p></div>"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                           ]
+                                          } 
+                                        ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name":"<div class = 'node-text grey-box'><p> My father's wife who is not a U.S. citizen.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                  "children": [
+                                    {
+                                      "name":"<div class = 'node-text yellow-box'><p> You are considered a child born in wedlock to a U.S. citizen mother and non-citizen father. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                      "children": [
+                                        {
+                                          "name": "<div class = 'node-text'><p> Can you provide <span class = 'popup-text popup' id='popupProof'>sufficient proof</span> of your birth, your parents' marriage and their citizenship?</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                          "children": [
+                                            {
+                                              "name":"<div class = 'node-text green-box'><p> I have sufficient documentary proof of my birth, my parents' marriage and their citizenship.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                              "children": [
+                                                {
+                                                  "name": "<div class = 'node-text yellow-box'><p> Only if you are suspected of <span class = 'popup-text popup' id='popupFraud'>fraud</span> will your DNA be requested. It is still <b>optional</b>. </p></div>"
+                                               }
+                                              ]
+                                            },
+                                            {
+                                              "name": "<div class = 'node-text red-box'><p> I do not have documentary proof of my birth, my parents' marriage and/or their citizenship.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                                              "children": [
+                                                {
+                                                    "name": "<div class = 'node-text yellow-box'><p> You may have no other choice but to submit to DNA testing or withdraw your claim. <span class = 'popup-text popup' id='popupWhy'> Why?</span> </p></div>"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            } 
+                          ]                       
+                        }  
+                      ]  
+                    },
+                    { 
+                      "name":"<div class = 'node-text'><p> Neither of my genetic parents is a U.S. citizen. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                      "children": [
+                        { 
+                          "name":"<div class = 'node-text'><p> Is one of your genetic parents married to a U.S. citizen who is your <span class = 'popup-text popup' id='popupLegalParent'>legal parent</span>? </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                          "children": [
+                            {
+                              "name" :"<div class = 'node-text green-box'><p> Yes. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                              "children": [
+                                {
+                                  "name":"<div class = 'node-text yellow-box'><p> You are considered a child born in wedlock to one U.S. citizen parent and one non-citizen parent. </p> </div>",
+                                  "children": [
+                                    {
+                                      "name":"<div class = 'node-text yellow-box'><p> You are considered a child born in wedlock to a U.S. citizen mother and non-citizen father. </p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                      "children": [
+                                        {
+                                          "name": "<div class = 'node-text'><p> Can you provide <span class = 'popup-text popup' id='popupProof'>sufficient proof</span> of your birth, your parents' marriage and their citizenship?</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                          "children": [
+                                            {
+                                              "name":"<div class = 'node-text green-box'><p> I have sufficient documentary proof of my birth, my parents' marriage and their citizenship.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'> </div>",
+                                              "children": [
+                                                {
+                                                  "name": "<div class = 'node-text yellow-box'><p> Only if you are suspected of <span class = 'popup-text popup' id='popupFraud'>fraud</span> will your DNA be requested. It is still <b>optional</b>. </p></div>"
+                                               }
+                                              ]
+                                            },
+                                            {
+                                              "name": "<div class = 'node-text red-box'><p> I do not have documentary proof of my birth, my parents' marriage and/or their citizenship.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                                              "children": [
+                                                {
+                                                    "name": "<div class = 'node-text yellow-box'><p> You may have no other choice but to submit to DNA testing or withdraw your claim. <span class = 'popup-text popup' id='popupWhy'> Why?</span> </p></div>"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name" :"<div class = 'node-text red-box'><p> No. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></div>",
+                              "children": [
+                                {
+                                  "name":"<div class = 'node-text red-box'><p> You are not eligible for citizenship through parentage. </p> </div>"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+     
+   

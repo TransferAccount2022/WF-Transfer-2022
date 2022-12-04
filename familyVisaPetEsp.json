@@ -1,0 +1,54 @@
+[
+    {
+      "name": "<div class = 'node-text'><p> Tengo un miembro de mi familia que quiere una <span class = 'popup-text popup' id='popupFamilyVisa'>visa basada en la familia</span>.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+      "children": [
+        {
+          "name": "<div class = 'node-text'><p> Para iniciar el proceso, usted tiene que organizar para la recogida de ADN en <span class = 'popup-text popup' id='popupLab'>un laboratorio acreditado por AABB</span>.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+          "children": [
+            {
+              "name": "<div class = 'node-text green-box'><p> The laboratory will collect your <span class = 'popup-text popup' id='popupSample'>DNA sample</span>.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+              "children": [
+                {
+                  "name": "<div class = 'node-text'><p> Your family member must arrange for <span class = 'popup-text popup' id='popupDNACollection'>DNA collection</span> at the Consulate or Embassy nearest them.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                  "children": [
+                    {
+                      "name": "<div class = 'node-text grey-box'><p> The laboratory will send a test kit to your family member at the U.S Consulate or Embassy.</p> <i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                      "children": [
+                        {
+                          "name": "<div class = 'node-text grey-box'><p> Both samples will be returned to the laboratory and used to prepare <span class = 'popup-text popup' id = 'popupDNAprofile'>DNA profiles</span>. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                          "children": [
+                            {
+                              "name": "<div class = 'node-text'><p>Your DNA profile will be compared with that of your U.S. based family member to determine if a <span class = 'popup-text popup' id='popupMatch'>sufficient match</span> exists.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                              "children": [
+                                {
+                                  "name": "<div class = 'node-text green-box'><p> If there is a sufficient match, your relationship will be confirmed. </p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                                  "children": [
+                                    {
+                                      "name": "<div class = 'node-text'><p>Results will be sent back to the Embassy or Consulate and application process continues.<span class = 'popup-text popup' id='popupPos'> What next?</span></p></div>"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "<div class = 'node-text red-box'><p> If there is not a sufficient match, your relationship will be considered unconfirmed.</p><i class='fas fa-arrow-right'></i><i class='fas fa-arrow-left hidden'></i></div>",
+                                  "children": [
+                                    {
+                                      "name": "<div class = 'node-text'><p>Results will be sent back to the Embassy or Consulate, but application will likely not be accepted. <span class = 'popup-text popup' id='popupNeg'> What next?</span></p></div>"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  
